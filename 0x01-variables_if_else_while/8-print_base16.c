@@ -13,7 +13,7 @@ int main(void)
 	char chika;
 
 	for (kingsley = 48; kingsley < 58; kingsley++)
-		putchar(sammy);
+		putchar(kingsley);
 	for (chika = 'a'; chika <= 'f'; chika++)
 		putchar(chika);
 	putchar('\n');
