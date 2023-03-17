@@ -5,7 +5,7 @@
  * main - The program that print negative and positive of random Number
  * Author: KingVik-Planet
  * Date: 01-0-203
- * Details: c program to print -ve, zero and -ve results of a random number
+ * Details: C program to print -ve, zero and -ve results of a random number
  * Return: 0 (success)
  */
 int main(void)
