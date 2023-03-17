@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - The Statrting point
- * Description:Random number to the variable n each time it is executed
+ * Description:	Random number to variable n each time it is executed
  * author: KingVik-Planet
  * date:17-03-2023
  * Return: 0 (success)
