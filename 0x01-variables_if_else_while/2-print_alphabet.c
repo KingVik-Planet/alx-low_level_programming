@@ -12,7 +12,7 @@ int main(void)
 
 	for (kingsley = 'a'; kingsley <= 'z'; kingsley++)
 	{
-		putchar(kingsleychikachukwu);
+		putchar(kingsley);
 	}
 	putchar('\n');
 	return (0);
