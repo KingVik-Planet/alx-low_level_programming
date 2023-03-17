@@ -12,7 +12,7 @@ int main(void)
 	char kgp;
 
 	for (kp = 'a'; kp <= 'z'; kp++)
-		putchar(c);
+		putchar(kp);
 	for (kgp = 'A'; kgp <= 'Z'; kgp++)
 		putchar(kgp);
 	putchar('\n');
