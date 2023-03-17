@@ -2,7 +2,7 @@
 
 /**
  * main -Program that prints the alphabet in lowercase
- * Description: I will use my full name
+ * Description: I will be using my name
  * Author: KingVik-Planet
  * Return: Always 0 (Success/correct)
  */
