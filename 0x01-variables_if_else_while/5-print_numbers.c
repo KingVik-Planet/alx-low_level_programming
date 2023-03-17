@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * author: sammy
+ * author: KingVik-Planet
  * Return: Always 0 (Success/correct)
  */
 int main(void)
