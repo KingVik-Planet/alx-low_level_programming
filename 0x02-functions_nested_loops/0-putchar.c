@@ -1,21 +1,14 @@
-#include <stdio.h>
 #include "main.h"
+#include <unistd.h>
 
 /**
- * main - Entry point
+ * _putchar - Entry point
+ * @c: The character to print
  * Description: Progrm
  * Return: nothing, return void
  */
 
-int main(void)
-{	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
-	return (0);
+int _putchar(char c)
+{
+	return (write(1, &c, 1));
 }
