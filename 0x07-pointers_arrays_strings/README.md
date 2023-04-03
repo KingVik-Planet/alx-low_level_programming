@@ -37,4 +37,6 @@
 
 * Author : KingVik-Planet
 
-* Date: 03 April 2023
+* Date: 03 April 202
+
+## Note: cat > 101-crackme_password then type abc123 as typed in vim then followed by pressing crtl +D plus then git add, comit and push
