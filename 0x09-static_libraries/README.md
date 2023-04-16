@@ -61,3 +61,5 @@
 * Move a copy of .o file into lib by using ar rcs libmy.a *.o command
 
 * git add, commit and push
+
+* Check for number of function - ar -t libmy.a | wc -l
