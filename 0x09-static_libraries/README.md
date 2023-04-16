@@ -50,6 +50,7 @@
 
 ## Steps
 
+#### Task 1
 *  mkdir, README.md, Main.h
 
 * Creating the 20 files which is copied from exsiting previous project
@@ -63,3 +64,10 @@
 * git add, commit and push
 
 * Check for number of function - ar -t libmy.a | wc -l
+
+
+#### Task 2
+
+* Create the file, the code, make and executivable file using chmod u+x .file, Test the file ./file
+
+* git add, commit and push
