@@ -1,35 +1,23 @@
 #include "main.h"
 /**
-* _strspn - return length of string that matches values consistently
-* @s: string to search
-* @accept: target matches
-* Return: number of bytes consecutively matched
-*/
-
-unsigned int _strspn(char *s, char *accept)
+ *_strcmp - compares two strings.
+ *@s1: pointer to first string.
+ *@s2: pointer to second string.
+ *
+ *Return: value less than 0 if string is less than the other.
+ *value greater than 0 if string is greater than the other.
+ *0 if strings are equal.
+ */
+int _strcmp(char *s1, char *s2)
 {
-	int i = 0, j;
-	int matches = 0;
+	int counter, cmpVal;
 
-	while (s[i] != '\0') /*iterate through string*/
+	counter = 0;
+	while (s1[counter] == s2[counter] && s1[counter] != '\0')
 	{
-
-		for (j = 0; accept[j] != '\0'; j++) /*iterate through target*/
-		{
-			if (s[i] == accept[j]) /*record & break at first match*/
-			{
-				matches++;
-				break;
-			}
-
-			if (accept[j + 1] == '\0' && s[i] != accept[j])
-
-			return (matches);/*return if idx doesn't match*/
-		}
-
-		i++;
+		counter++;
 	}
 
-	return (matches); /* return num if all match till end */
-
+	cmpVal = s1[counter] - s2[counter];
+	return (cmpVal);
 }
