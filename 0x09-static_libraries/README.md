@@ -47,3 +47,17 @@
 * A README.md file, at the root of the folder of the project, describing what each script is doing
 
 * All your files must be executable
+
+## Steps
+
+*  mkdir, README.md, Main.h
+
+* Creating the 20 files which is copied from exsiting previous project
+
+* convert of object files - .o using gcc -c *.c for all .c file and check betty
+
+* Create Libary - ar rcs libmy.c
+
+* Move a copy of .o file into lib by using ar rcs libmy.a *.o command
+
+* git add, commit and push
