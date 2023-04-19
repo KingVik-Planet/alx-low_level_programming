@@ -57,7 +57,7 @@
 
 * convert of object files - .o using gcc -c *.c for all .c file and check betty
 
-* Create Libary - ar rcs libmy.c
+* Create Libary - ar rcs libmy.a
 
 * Move a copy of .o file into lib by using ar rcs libmy.a *.o command
 
