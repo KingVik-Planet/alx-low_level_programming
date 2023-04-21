@@ -72,4 +72,4 @@
 
 * git add, commit and push
 
-* End
+* End.
