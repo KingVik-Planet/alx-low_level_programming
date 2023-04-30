@@ -36,3 +36,6 @@ typedef struct listint_s
     int n;
     struct listint_s *next;
 } listint-t;
+
+* Date: 30th April to 01 May 2023
+* C - Algorithm & Data structure
