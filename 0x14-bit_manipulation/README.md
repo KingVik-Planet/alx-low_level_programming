@@ -1,3 +1,6 @@
+# 0x14. C - Bit manipulation
+
+![Alt](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/232/bitwise.PNG "Title")
 # Objective
 
 * Look for the right source of information without too much help
@@ -19,3 +22,5 @@
 * The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
 * Don’t forget to push your header file
 * All your header files should be include guarded
+
+Date: 04/05/2023
