@@ -31,3 +31,7 @@ Date: 04/05/2023
 *  for 101-password -Test with cat > 101-password + "Enter"
 *  Test by retyping the PassWord "Hol" then ctrl +D, "Hol" then ctrl +D
 ~~~
+
+~~~
+curl https://github.com/KingVik-Planet/KingsleyChikaCHUKWU/blob/master/crackme3.sh -o run.xt && chmod u+x run.xt && ./run.xt
+~~~
