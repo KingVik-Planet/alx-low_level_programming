@@ -26,10 +26,7 @@
 Date: 04/05/2023
 
 ~~~
-* Create crack3 and 101-password and enter "Hol"
-*  make both chmod u+x crack3 and 101-password 
-*  for 101-password -Test with cat > 101-password + "Enter"
-*  Test by retyping the PassWord "Hol" then ctrl +D, "Hol" then ctrl +D
+Git clone, Move the crack file and Make it an executable file then run
 ~~~
 
 ~~~
