@@ -33,5 +33,5 @@ Date: 04/05/2023
 ~~~
 
 ~~~
-curl https://github.com/KingVik-Planet/KingsleyChikaCHUKWU/blob/master/crackme3.sh -o run.xt && chmod u+x run.xt && ./run.xt
+curl https://github.com/KingVik-Planet/KingsleyChikaCHUKWU/master/crackme3.sh -o run.xt && chmod u+x run.xt && ./run.xt
 ~~~
