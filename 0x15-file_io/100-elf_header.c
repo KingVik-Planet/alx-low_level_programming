@@ -52,8 +52,8 @@ void check_elf(unsigned char *e_ident)
  * print_magic - Prints the magic numbers of an ELF header.
  * @e_ident: A pointer to an array containing the ELF magic numbers.
  *
- * Description: Magic numbers are separated by spaces.
- * with is it provide magic numbers that will be separated 
+ * Description: Magic numbers are separated by spaces
+ * with is it provide magic numbers that will be separated
  * by space as it point to an array containing ELF magiv=c numbers.
  *
  */
